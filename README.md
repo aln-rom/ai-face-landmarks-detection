@@ -10,6 +10,10 @@ This project demonstrates real-time face landmark detection using Tensorflow.JS 
 
 - **React**: The user interface is built using React, making it easy to customize and integrate with other React-based applications.
 
+- **Accurate Landmark Detection**: The AI model accurately detects facial landmarks, including eyes, nose, mouth, and facial contours, ensuring precise results.
+
+- **Easy Integration**: The application is designed for easy integration into web projects, enabling developers to incorporate facial landmark detection seamlessly.
+
 ## Installation
 
 To get started with this project, follow these steps:
@@ -22,5 +26,5 @@ Install the required dependencies:
 Start the application:
 
    ```bash
-   npm start
+   npm run start
    ```
